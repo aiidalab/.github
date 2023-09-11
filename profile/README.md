@@ -12,4 +12,4 @@
 -->
 
 - The [guidance of development](https://github.com/aiidalab/aiidalab/wiki) includes information need to know for **maintaining**, **developing** and **releasing** AiiDAlab infrustracture.
-- The [guidance for users] (https://aiidalab.readthedocs.io/en/latest/) contains documentations for **app users**, **app developers** and **platform deployment**.
+- The [guidance for users](https://aiidalab.readthedocs.io/en/latest/) contains documentations for **app users**, **app developers** and **platform deployment**.
